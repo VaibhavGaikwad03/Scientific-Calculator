@@ -21,4 +21,4 @@ private:
     int is_operator(char chSymbol);
 };
 
-#endif //CALCULATOR_HEADER_H
+#endif //CALCULATOR_HEADER_H 
