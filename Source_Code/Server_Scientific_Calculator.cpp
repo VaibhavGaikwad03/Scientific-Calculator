@@ -1,7 +1,7 @@
 #include <cmath>
 #include <cstring>
 #include "Server_Calculator_Header.h"
-
+ 
 ScientificCalculator::ScientificCalculator(const char *pInfix) : m_cpInfix(pInfix)
 {
     m_pStack = new Stack;
