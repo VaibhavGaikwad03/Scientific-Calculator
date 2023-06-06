@@ -3,7 +3,7 @@
 
 #include "Server_Stack_Header.h"
 #define MAX 50
-
+ 
 class ScientificCalculator
 {
     Stack *m_pStack;
